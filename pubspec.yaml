@@ -36,3 +36,6 @@ flutter:
       web:
         pluginClass: FlutterTimezonePlugin
         fileName: flutter_timezone_web.dart
+      ohos:
+        package: net.wolverinebeach.flutter_timezone
+        pluginClass: FlutterTimezonePlugin
